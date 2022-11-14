@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
+        <h1>
           Rick and Morty API
-        </p>
+        </h1>
       <Personajes />
       </header>
     </div>
