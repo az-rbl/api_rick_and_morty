@@ -1,5 +1,6 @@
 import Personajes from './components/personajes';
 import './App.css';
+import Button from 'react-bootstrap/Button';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
         </h1>
       <Personajes />
       </header>
+        
     </div>
   );
 }
